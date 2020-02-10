@@ -1,6 +1,9 @@
 # emissions-data-project
 A data visualization project to visualize Canadian emissions data.
 
+## Setup
+1. Create virtual environment from ```requirements.txt```.
+
 ## Candidate datasets:
 
 BC: 
@@ -11,3 +14,10 @@ Community Greenhouse Gas Inventory. Three years of data available - 2007, 2010, 
 https://www2.gov.bc.ca/gov/content/environment/climate-change/data/ceei
 
 [GHG Reporting Program](https://open.canada.ca/data/en/dataset/a8ba14b7-7f23-462a-bdbb-83b0ef629823) from Open data canada.
+
+
+## Resources
+
+### Leaflet
+- [Leaflet Sync](https://github.com/jieter/Leaflet.Sync) to sync maps
+- [Leaflet Timeline Slider](https://github.com/svitkin/leaflet-timeline-slider)

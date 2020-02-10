@@ -1,1 +1,6 @@
-print("This is where some data preprocessing will go!")
+import pandas as pd
+
+from config import CONFIG
+
+# Get emissions data
+df = pd.read_csv(CONFIG["emissions-path"])
